@@ -27,16 +27,6 @@ function App() {
         <button type="submit">Submit</button>
       </div> */}
 
-      {/* <nav className="navbar">
-        <div className="logo">Parul University</div>
-        <ul className="nav-items">
-          <li><a href="">Home</a></li>
-          <li><a href="">Result</a></li>
-          <li><a href="">Get Addmission</a></li>
-          <button type="submit" className="btn">Login</button>
-        </ul>
-      </nav>
-
       <section className="img-section">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsvfNMh_95YCv0Sn4wAcQfjP97veiaBbnfw&s" alt="" width={500}></img>
       </section>
@@ -56,7 +46,6 @@ function App() {
 
 
       <footer className="footer">CopyRight Under 2025 Parul University</footer> */
-      }
 
     </>
   );
