@@ -45,7 +45,7 @@ function App() {
 
 
 
-      <footer className="footer">CopyRight Under 2025 Parul University</footer> */
+      <footer className="footer">CopyRight Under 2025 Parul University</footer>
 
     </>
   );
